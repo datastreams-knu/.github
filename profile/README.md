@@ -3,7 +3,7 @@
 > ## 협력기관: (주)데이터스트림즈 <br/>
 > ## 개발기간: 2024.09.01~
 ---
-### [👉 서비스 링크](https://youtu.be/zoHKYodAu8E)
+### [👉 서비스 링크](https://www.knu-chatbot.site/)
 ### (구글 검색창에 "경북대 컴퓨터학부 챗봇"을 검색해보세요!)
 ---
 ### 팀 노션: [링크 이동](https://emphasized-windscreen-ce1.notion.site/1-5-6bf81138d01b4b0cbeeb4571d1609322?pvs=4)
@@ -25,7 +25,7 @@
 |AI|이석현|
 
 ## 시연 영상
-### [영상 링크](https://www.youtube.com/watch?v=O4prGH9wHOA)
+### [영상 링크](https://youtu.be/zoHKYodAu8E)
 ---
 
 ## 유즈케이스
